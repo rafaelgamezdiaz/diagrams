@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T14:08:46.844Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kz23TvXu7Row0PvE4Df0" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T14:25:38.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Oo_GxQNn7WtivNf4edQW" version="14.9.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1157" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
           <mxGeometry x="600" y="230" width="130" height="26.89" as="geometry" />
         </mxCell>
         <mxCell id="8uTU0QqU1HIvkspRgjLD-4" value="WalletClientModule" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="230" width="120" height="26.89" as="geometry" />
+          <mxGeometry x="470" y="230" width="120" height="26.89" as="geometry" />
         </mxCell>
         <mxCell id="8uTU0QqU1HIvkspRgjLD-13" value="GraphQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="501.72" y="184.44" width="78.28" height="20" as="geometry" />
